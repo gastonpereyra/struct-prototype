@@ -3,9 +3,9 @@
 const assert = require('assert');
 const sandbox = require('sinon');
 
-const PACKAGE_NAME = require('PACKAGE_NAME');
+const structPrototype = require('../lib/struct-prototype');
 
-describe('PACKAGE_NAME', () => {
+describe('struct-prototype', () => {
 
     context('When Some condition', () => {
         

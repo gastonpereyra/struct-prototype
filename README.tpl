@@ -1,16 +1,16 @@
-# PACKAGE_NAME
+# struct-prototype
 
 ## Code Quality Status
-![Build Status](https://github.com/gastonpereyra/PACKAGE_NAME/workflows/Build%20Status/badge.svg)
-[![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/PACKAGE_NAME/master.svg)](https://coveralls.io/r/gastonpereyra/PACKAGE_NAME?branch=master)
+![Build Status](https://github.com/gastonpereyra/struct-prototype/workflows/Build%20Status/badge.svg)
+[![Coverage Status](https://img.shields.io/coveralls/github/gastonpereyra/struct-prototype/master.svg)](https://coveralls.io/r/gastonpereyra/struct-prototype?branch=master)
 
 ## Description
-PACKAGE_DESCRIPTION
+Prototype to create a JS struct check library 
 
 ## Installation
 
 ```
-npm i PACKAGE_NAME
+npm i struct-prototype
 ```
 
 ## Methods
@@ -18,7 +18,7 @@ npm i PACKAGE_NAME
 ## Usage
 
 ```js
-const PACKAGE_NAME = require('PACKAGE_NAME');
+const struct-prototype = require('struct-prototype');
 
 /*
 output: 

@@ -1,6 +1,6 @@
 ---
 name: PR 
-title: "PR - REPO - NUMBER"
+title: "PR - SP - NUMBER"
 labels: enhancement
 assignees: gastonpereyra
 
@@ -11,7 +11,7 @@ assignees: gastonpereyra
 ## :link: Story
 Closes #NUMBER
 
-Link [TITLE](https://github.com/gastonpereyra/REPO_NAME/issues/NUMBER)
+Link [TITLE](https://github.com/gastonpereyra/struct-prototype/issues/NUMBER)
 
 ## :sparkles: Solution
 
