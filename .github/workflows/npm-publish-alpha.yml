@@ -28,10 +28,7 @@ jobs:
           git config user.name ${{ secrets.USERNAME }}
           git config user.email ${{ secrets.USER_EMAIL }}
       - run: npm version prerelease --preid alpha
-      - run: |
-          git add .
-          git commit -m "Updated Version"
-          git push origin alpha
+      - run: git push origin alpha
 
   publish-npm:
     needs: change-version
