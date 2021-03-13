@@ -30,7 +30,7 @@ jobs:
       - run: npm version prerelease --preid alpha
 
   publish-npm:
-    needs: check-coverage
+    needs: change-version
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
