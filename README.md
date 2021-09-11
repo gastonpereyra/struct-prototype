@@ -1,4 +1,4 @@
-# struct-prototype
+# Struct Prototype
 Prototype to create a JS struct check library.
 
 ## Code Quality Status
